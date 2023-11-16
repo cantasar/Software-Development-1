@@ -7,20 +7,20 @@ int main(int argc, char const *argv[])
 	int i = 0;
 	int j = 0;
 	int tmp;
-	while (j <= 5)
+	while (i <= 5)
 	{
-			i = 0;
-		while (i <= 5)
+		j = 0;
+		while (j <= 5)
 		{
-			if (arr[i] > arr[i + 1])
+			if (arr[j] > arr[j + 1])
 			{
-				tmp = arr[i];
-				arr[i] = arr[i + 1];
-				arr[i + 1] = tmp;
+				tmp = arr[j];
+				arr[j] = arr[j + 1];
+				arr[j + 1] = tmp;
 			}
-			i++;
+			j++;
 		}
-		j++;
+		i++;
 	}
 	
 	i = 0;
