@@ -5,7 +5,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?cantasar&color=blueviolet&label=REPO+VIEWS)
+![](https://komarev.com/ghpvc/cantasar&color=blueviolet&label=REPO+VIEWS)
 
 
 
