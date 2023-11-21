@@ -1,6 +1,6 @@
 # Software Development Lecture Notes
 
-> *`Note:`*  *does **not** include week 3,4,5,6 examples*
+> *`Note:`*  does **not** include week 3,4,5,6 examples
 
 #
 
