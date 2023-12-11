@@ -3,7 +3,7 @@
 int main()
 {
 	char string1[] = "How are you?";
-	char string2[] = "How are you?";
+	char string2[] = "How are you?";	//kullanıcıdan al
 
 	int i = 0;
 	if (sizeof(string1) == sizeof(string2))
@@ -18,7 +18,6 @@ int main()
 					printf("same string!");
 					return 0;
 				}
-				
 			}
 			else
 			{
