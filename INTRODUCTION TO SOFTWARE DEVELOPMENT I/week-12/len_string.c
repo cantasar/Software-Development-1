@@ -2,7 +2,7 @@
 
 int main()
 {
-	int a[100] = {0};
+	char a[100] = {0};
 	printf("enter a string: ");
 	scanf("%s", a);
 
