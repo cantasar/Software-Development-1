@@ -4,6 +4,9 @@
 		"ratio": "c",
 		"algorithm": "c",
 		"stdio.h": "c",
-		"iostream": "cpp"
+		"iostream": "cpp",
+		"__bit_reference": "c",
+		"bitset": "c",
+		"unordered_map": "c"
 	}
 }

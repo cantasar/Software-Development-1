@@ -9,7 +9,7 @@ int main()
 	int count = 0;
 	char *p = &a[0];
 
-	while (*p != 0)
+	while (*p != '\0')
 	{
 		p++;
 		count++;
