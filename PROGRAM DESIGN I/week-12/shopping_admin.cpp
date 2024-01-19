@@ -33,10 +33,10 @@ int main()
 			cout << "x4 -> stock: "	<< stock[4] << "\n";
 		}
 		break;
-	
+
 	case 1:
 		int item1;
-		cout << "select item 1,2,3 or 4: ";
+		cout << "select item (1,2,3 or 4): ";
 		cin >> item1;
 
 		int item_add;

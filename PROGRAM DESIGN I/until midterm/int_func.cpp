@@ -10,7 +10,7 @@ int add(int a, int b)
 int main(int argc, char const *argv[])
 {
 	int sum;
-	sum = add(100, 75);
-	cout << "100*75= " << sum;
+	sum = add(r);
+
 	return 0;
 }
